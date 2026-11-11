@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-SQLite-lightgrey)
 ![Licence](https://img.shields.io/badge/licence-MIT-green)
 
-> Projet réalisé en **mars 2025** · données couvrant **janvier 2023 – décembre 2024**
+> Données couvrant **janvier 2023 – décembre 2024** (jeu de données synthétique reproductible)
 
 Analyse complète de l'activité d'un site e-commerce français sur deux ans :
 de l'ETL des fichiers bruts jusqu'à un **tableau de bord** et des **recommandations**,

@@ -1,6 +1,6 @@
 # Rapport d'analyse des ventes e-commerce 2023-2024
 
-_Édité le 14 mars 2025 – données du 1er janvier 2023 au 31 décembre 2024._
+_Édité le 11 novembre 2026 – données du 1er janvier 2023 au 31 décembre 2024._
 
 ## 1. Synthèse
 

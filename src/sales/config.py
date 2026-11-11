@@ -18,8 +18,8 @@ END_DATE = "2024-12-31"
 N_CUSTOMERS = 2500
 N_PRODUCTS = 120
 
-# Date d'édition affichée dans les rapports
-REPORT_DATE = date(2025, 3, 14)
+# Date d'édition affichée dans les rapports (date de génération)
+REPORT_DATE = date.today()
 
 CATEGORIES = {
     # catégorie: (prix moyen, marge brute moyenne)
