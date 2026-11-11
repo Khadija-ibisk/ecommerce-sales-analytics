@@ -1,6 +1,5 @@
 # 🛒 Analyse des ventes e-commerce – Entrepôt SQL, RFM, cohortes et prévision
 
-[![CI](https://github.com/Khadija-ibisk/ecommerce-sales-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/Khadija-ibisk/ecommerce-sales-analytics/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-lightgrey)
 ![Licence](https://img.shields.io/badge/licence-MIT-green)
